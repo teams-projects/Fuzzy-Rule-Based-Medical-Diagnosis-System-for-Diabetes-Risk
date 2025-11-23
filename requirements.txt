@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-fuzzy
+scipy
+seaborn
+networkx
+
+jupyter
+notebook
+
+tqdm
+streamlit
